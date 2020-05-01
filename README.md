@@ -26,7 +26,7 @@ www.laracasts.com
     4. Type ```sysdm.cpl``` and press enter
     5. Click on ```Advanced``` and open ```EnvironmentVariables...```
     6. Select ```Path``` in ```Systemvariables``` and click on ``edit``
-    7. Add the path to the ``php executable`` to the list
+    7. Add the path ``C:\Program Files\php`` to the list
         - If everything went successful running the command ``php -version`` in windows command line will give result
 
 
