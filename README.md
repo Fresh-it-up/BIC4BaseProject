@@ -37,7 +37,7 @@ Recommended IDE:
 5. Click on ```Advanced``` and open ```EnvironmentVariables...```
 6. Select ```Path``` in ```Systemvariables``` and click on ``edit``
 7. Add the path ``C:\Program Files\php`` to the list
-8. If everything went successful running the command ``php -version`` in windows command line will give result
+8. If everything went successful running the command ``php -v`` in windows command line will give result
 
 #### Other OS
 
